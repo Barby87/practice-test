@@ -1,6 +1,6 @@
 // Archivo `codeHard.js`
 
-const codeHard = (number) => {
+const codeHard = (num) => {
   /* Acá va tu código */
 
 };
